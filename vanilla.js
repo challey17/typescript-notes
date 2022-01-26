@@ -28,6 +28,6 @@ const hungryOrNot = (name, hungry) => {
 console.log(hungryOrNot("Michelle", true));
 console.log(hungryOrNot("Harsh", false));
 //NOT WORKING AS EXPECTED
-console.log(hungryOrNot("chayce"));
+console.log(hungryOrNot("Josh"));
 
 console.log(hungryOrNot("Maggie", 0));
